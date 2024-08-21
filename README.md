@@ -256,23 +256,21 @@ export const headerData = {
 
 #### Data for each component is divided into respective files.
 
-> #### Choose your favourite font from [`src/App.css`](https://github.com/said7388/developer-portfolio/blob/main/src/App.css)
+> #### Choose your favourite font from [`src/App.css`]
+> #### About You - [`src/data/aboutData.js`]
+> #### Education details - [`src/data/educationData.js`]
 
-> #### About You - [`src/data/aboutData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/aboutData.js)
+> #### Enter your Projects - [`src/data/projectsData.js`]
 
-> #### Education details - [`src/data/educationData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/educationData.js)
+> #### Add your Skills - [`src/data/skillsData.js`]
 
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/projectsData.js)
+> #### Experience - [`src/data/experienceData.js`]
 
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/skillsData.js)
+> #### Your Blogs and Articles - [`src/data/blogData.js`]
 
-> #### Experience - [`src/data/experienceData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/experienceData.js)
+> #### Contact Details - [`src/data/contactsData.js`]
 
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/blogData.js)
-
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/contactsData.js)
-
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/said7388/developer-portfolio/blob/main/src/data/socialsData.js)
+> #### Social Media Profiles - [`src/data/contactsData.js`]
 
 ```javascript
 // EXAMPLE
